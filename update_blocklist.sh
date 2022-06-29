@@ -37,6 +37,7 @@ do
         case "${yn}" in
                 [yY]) ipset a blocklist_original ${ipaddr};;
         esac
+        echo ""
 done
 
 rm -f ${FILE} ${CODE} ${LIST}
