@@ -1,4 +1,4 @@
-# firehol
+# FireHOL
 Scripts for FireHOL on Debian and Ubuntu
 
 # やりたいこと
