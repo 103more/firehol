@@ -3,8 +3,13 @@ Scripts for FireHOL on Debian and Ubuntu
 
 # やりたいこと
 サーバを不正アクセスから守る
-FireHOLで提供される不正アクセスをしているIPアドレス等を取得しTCPそうでブロック  
-不正アクセスをする国を遮断
+FireHOLで提供される不正アクセスをしているIPアドレス等を取得しTCP層でブロック
+## 不正アクセス元を遮断
+- FireHOL level2
+-- blocklist_de
+-- greensnow
+-- dhied
+## 不正アクセスをする国を遮断
 - ロシア
 - 中国
 - 大韓民国・朝鮮民主主義人民共和国
