@@ -1,0 +1,10 @@
+[Unit]
+Description = Automatic Execution for update-ipsets of FireHOL's firehol-tools
+
+[Service]
+Type = oneshot
+ExecStart = /usr/sbin/update-ipsets --silent --cleanup
+ExecStartPost = /usr/sbin/netfilter-persistent save
+
+[Install]
+WantedBy = multi-user.target

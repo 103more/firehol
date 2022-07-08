@@ -1,0 +1,9 @@
+[Unit]
+Description = Automatic Execution for update-ipsets of FireHOL's firehol-tools
+
+[Timer]
+OnBootSec = 5min
+OnUnitActiveSec = 3min
+
+[Install]
+WantedBy = timers.target
