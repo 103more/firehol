@@ -16,15 +16,12 @@ We use following IP Lists to protect our Debian Servers.
 - dhied
 ## Block from IPS of Countries with cybercrime
 We block from IP Lists of following countries.
-- Russia (RU)
-- China (CN)
-- Republic of Korea (KR)
-- North Korea (KP)
-
-
 | Country | Maintainer | Maintainer URL | Categoiry | Update Frequency | Entries | Description |
 | ------- | ---------- | -------------- | --------- | ---------------- | ------- | ----------- |
 | Russia (RU) | ipip.net | http://ipip.net | geolocation | 1 day | 13,324 subnets, 46,074,435 unique IPs | Full list analysis, including geolocation map, history, retention policy, overlaps with other lists, etc. |
+| China (CN) | ipip.net | http://ipip.net | geolocation | 1 day | 6,182 subnets, 355,775,913 unique IPs | Full list analysis, including geolocation map, history, retention policy, overlaps with other lists, etc. |
+| Republic of Korea (KR) | ipip.net | http://ipip.net | geolocation | 1 day | 4,357 subnets, 114,934,117 unique IPs | Full list analysis, including geolocation map, history, retention policy, overlaps with other lists, etc. |
+| North Korea (KP) | ipip.net | http://ipip.net | geolocation | 1 day | 2 subnets, 9,216 unique IPs | Full list analysis, including geolocation map, history, retention policy, overlaps with other lists, etc. |
 
 # 前提条件
 このプロジェクトの前提条件を記載
