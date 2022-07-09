@@ -16,7 +16,7 @@ We use following IP Lists to protect our Debian Servers.
 - dhied
 
 | Country | Maintainer | Maintainer URL | Categoiry | Update Frequency | Entries |
-| ------- | ---------- | -------------- | --------- | ---------------- | ------- |
+| ------- | ---------- | -------------- | --------- | ---------------: | ------- |
 |  | ipip.net | http://ipip.net | geolocation | 1 day | 13,324 subnets, 46,074,435 unique IPs |
 | blocklist_de | Blocklist.de | https://www.blocklist.de/lists/all.txt | attacks | 15 mins | 23,856 unique IPs |
 
@@ -24,7 +24,7 @@ We use following IP Lists to protect our Debian Servers.
 ## Block from IPS of Countries with cybercrime
 We block from IP Lists of following countries to protect our Debian Servers.
 | Country | Maintainer | Maintainer URL | Categoiry | Update Frequency | Entries |
-| ------- | ---------- | -------------- | --------- | ---------------- | ------- |
+| ------- | ---------- | -------------- | --------- | ---------------: | ------- |
 | Russia (RU) | ipip.net | http://ipip.net | geolocation | 1 day | 13,324 subnets, 46,074,435 unique IPs |
 | China (CN) | ipip.net | http://ipip.net | geolocation | 1 day | 6,182 subnets, 355,775,913 unique IPs |
 | Republic of Korea (KR) | ipip.net | http://ipip.net | geolocation | 1 day | 4,357 subnets, 114,934,117 unique IPs |
