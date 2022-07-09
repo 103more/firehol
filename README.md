@@ -8,15 +8,18 @@ You could get more information about 'FireHOL IP Lists' and other services of Fi
 # What we want to do
 サーバを不正アクセスから守る
 FireHOLで提供される不正アクセスをしているIPアドレス等を取得しTCP層でブロック
-## 不正アクセス元を遮断
+## Block from IPs of on-line attacks and on-line service abuse
+We use following IP Lists to protect our Debian Servers.
 - FireHOL level2
--- blocklist_de
--- greensnow
--- dhied
-## 不正アクセスをする国を遮断
-- ロシア
-- 中国
-- 大韓民国・朝鮮民主主義人民共和国
+- blocklist_de
+- greensnow
+- dhied
+## Block from IPS of Countries with cybercrime
+We block from IP Lists of following countries.
+- Russia (RU)
+- China (CN)
+- Republic of Korea (KR)
+- North Korea (KP)
 
 # 前提条件
 このプロジェクトの前提条件を記載
