@@ -5,7 +5,7 @@ The site analyses all available security IP Feeds, mainly related to on-line att
 Please visit their site : https://iplists.firehol.org/ .
 You could get more information about 'FireHOL IP Lists' and other services of FireHOL.
 
-# やりたいこと
+# What we want to do
 サーバを不正アクセスから守る
 FireHOLで提供される不正アクセスをしているIPアドレス等を取得しTCP層でブロック
 ## 不正アクセス元を遮断
