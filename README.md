@@ -1,5 +1,8 @@
-# FireHOL
-Scripts for FireHOL on Debian and Ubuntu
+# firehol
+We provide you the scripts and the configuration files to build up the firewall with 'FireHOL IP Lists' on Debian.  
+FireHOL IP Lists is the site of 'All Cybercrime IP Feeds'.
+The site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+The site is https://iplists.firehol.org/ .
 
 # やりたいこと
 サーバを不正アクセスから守る
