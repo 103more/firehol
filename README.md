@@ -7,7 +7,7 @@ You could get more information about 'FireHOL IP Lists' and other services of Fi
 
 # What we want to do
 Our Debian Servers ( and the other Destoributions like Ubuntu, ArchLinux, etc) is always attacked from many attackers on the NET.
-And then we should protect our Debian Servers to keep our system and data from them.
+And then we should protect our Debian Servers to keep our system and data from their attacking.
 
 サーバを不正アクセスから守る
 FireHOLで提供される不正アクセスをしているIPアドレス等を取得しTCP層でブロック
