@@ -20,6 +20,8 @@ We block from IP Lists of following countries.
 - China (CN)
 - Republic of Korea (KR)
 - North Korea (KP)
+
+
 | Country | Maintainer | Maintainer URL | Description |
 | ------- | ---------- | -------------- | ----------- |
 | Russia (RU) | ipip.net | http://ipip.net | Full list analysis, including geolocation map, history, retention policy, overlaps with other lists, etc. |
