@@ -20,6 +20,7 @@ We use following IP Lists to protect our Debian Servers.
 | blocklist_de | [Blocklist.de](https://www.blocklist.de/) | attacks | 15 mins | 23,856 unique IPs | IPs that have been detected by fail2ban in tha last 48 hours. |
 | greensnow | [GreenSnow.co](https://greensnow.co/) | attacks | 30 mins | 5,173 unique IPs | GreenSnow is a team harvesting a large number of IPs from different computers located around the world. GreenSnow is comparable with SpamHaus.org for attacks of any kind except for spam. Their list is updated automatically and you can withdraw at any time your IP address if it has been listed. Attacks / bruteforce that are monitored are: Scan Port, FTP, POP3, mod_security, IMAP, SMTP, SSH, cPanel, etc. |
 | dshield | [DShield.org](https://dshield.org/) | attacks | 10 mins | 20 subnets, 5,120 unique IPs | Top 20 attacking class C (/24) subnets over the last three days |
+| tor_exits | [TorProject.org](https://www.torproject.org/) | anonymizers | 5 mins | 1,430 unique IPs | List of all current TOR exit points (TorDNSEL) |
 
 ## Block from IPS of Countries with cybercrime
 We block from IP Lists of following countries to protect our Debian Servers.
