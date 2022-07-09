@@ -1,5 +1,5 @@
-# firehol
-In this project we provide you the documents of installation, the configuration files and the scripts to build up the firewall on your Debian Servers with 'FireHOL IP Lists'.  
+# About this repository
+In this repository we provide you the documents of installation, the configuration files and the scripts to build up the firewall on your Debian Servers with 'FireHOL IP Lists'.  
 'FireHOL IP Lists' is the site of 'All Cybercrime IP Feeds'.
 The site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.  
 Please visit their site : https://iplists.firehol.org/ .
