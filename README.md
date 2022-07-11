@@ -44,8 +44,8 @@ You must have a following environment.
 
 # Installtion
 インストール手順を記載  
-''''apt-get update
-apt-get dist-upgrade''''
+‘‘‘apt-get update
+apt-get dist-upgrade```
 
 - apt update
 - apt -y install firehol-tools netfilter-persistent
