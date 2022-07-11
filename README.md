@@ -43,9 +43,10 @@ You must have a following environment.
 - NetFilter tables
 
 # Installtion
-インストール手順を記載
+インストール手順を記載  
 '''apt-get update
 apt-get dist-upgrade'''
+
 - apt update
 - apt -y install firehol-tools netfilter-persistent
 - apt -y install ipset firewalld
