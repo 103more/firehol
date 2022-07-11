@@ -31,10 +31,17 @@ We block from IP Lists of following countries to protect our Debian Servers.
 | Republic of Korea (KR) | [ipip.net](http://ipip.net) | geolocation | 1 day | 4,357 subnets, 114,934,117 unique IPs |
 | North Korea (KP) | [ipip.net](http://ipip.net) | geolocation | 1 day | 2 subnets, 9,216 unique IPs |
 
-# 前提条件
-このプロジェクトの前提条件を記載
-- Debianのバージョン
-- 完了(Apache ...)
+# Requirements
+You must have a following environment.
+## Operationg System and Distribution
+- Linux
+- Debian11 aka bulleye
+## Applications
+- firewalld
+- Apache
+## Up To Date your Debian Servers
+- apt-get update
+- apt-get dist-upgrade
 
 # Installtion
 インストール手順を記載
