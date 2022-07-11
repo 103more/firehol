@@ -39,12 +39,13 @@ You must have a following environment.
 ## Applications
 - firewalld
 - Apache
-## Up To Date your Debian Servers
-- apt-get update
-- apt-get dist-upgrade
+- iptables
+- NetFilter tables
 
 # Installtion
 インストール手順を記載
+'''apt-get update
+apt-get dist-upgrade'''
 - apt update
 - apt -y install firehol-tools netfilter-persistent
 - apt -y install ipset firewalld
